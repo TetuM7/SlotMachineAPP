@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/bigtay/Desktop/SlotMachinep1/.metadata/.plugins/org.eclipse.jdt.core
-3621991748.index
-4154239352.index
